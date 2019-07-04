@@ -1,0 +1,18 @@
+
+
+Version:	3.9
+CmdLine:	D:\Project\dist\Locate.io.exe --l4j-debug
+WOW64:		yes
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_131
+Check launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe (OK)
+Match:		1.8.0_131
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.8.0_131 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_131\bin\javaw.exe
+Launcher args:	-jar "D:\Project\dist\Locate.io.exe"
+Args length:	36/32768 chars
+Exit code:	0
